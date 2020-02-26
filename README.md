@@ -1,5 +1,4 @@
 # SII-Final-Project
-Repository for the final project of the course "Spatial Information Infrastructure", Winter Semester 2017-18.
 
 ## Visualizing Crime Locations in London
 
